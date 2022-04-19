@@ -1,0 +1,2 @@
+﻿2022-04-19 13:40:06.5264|DEBUG|OperationOnNLogProject.NLog|Debug Successfull : Sum()
+2022-04-19 13:40:06.7537|INFO|OperationOnNLogProject.NLog|Sum Method passed, Result413083
